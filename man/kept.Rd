@@ -6,3 +6,9 @@
 \usage{
 kept(x)
 }
+\arguments{
+\item{x}{a variable}
+}
+\description{
+Blank
+}
