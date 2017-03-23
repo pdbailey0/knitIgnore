@@ -1,0 +1,15 @@
+Package: knitIgnore
+Version: 1.0
+Date: 2017-03-22
+Title: Knitr MWE for Rbuildignore
+Author: Paul Bailey [aut, cre]
+Maintainer: Paul Bailey <pbailey@air.org>
+Depends:
+    R (>= 3.3.3),
+Description: Super fun package that shows how knitr and .Rbuildignore interact
+License: GPL-2
+VignetteBuilder: knitr
+Suggests: knitr,
+    rmarkdown
+LazyData: true
+RoxygenNote: 6.0.1

@@ -1,0 +1,16 @@
+---
+title: "A vignette that should be kept"
+author: "Paul Bailey"
+date: '`r format(Sys.Date(),"%B %d, %Y")`'
+vignette: >
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteIndexEntry{A vignette that should be kept}
+output:
+  pdf_document:
+    fig_caption: yes
+    number_sections: no
+---
+
+This is a super short vignette.[^fn1]
+
+[^fn1]: See `vignette(package="knitIgnore")`
