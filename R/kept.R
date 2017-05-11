@@ -6,5 +6,5 @@
 #'
 #' @export
 kept <- function(x) {
-  cat("works!")
+  cat("works! Well!")
 }
